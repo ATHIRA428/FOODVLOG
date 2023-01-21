@@ -4,13 +4,12 @@
 
 
 
-![DISPLAY](https://user-images.githubusercontent.com/122553640/213876061-7a1aeacd-8a65-400e-b71b-ee56f7668f88.png)
+![display1](https://user-images.githubusercontent.com/122553640/213876765-5d7c2a3d-edbb-44da-82c1-20639e12db71.png)
 <br>
 
 
-![Screenshot 14](https://user-images.githubusercontent.com/122553640/213876168-fcc6f2a0-ab9e-4100-9ec2-58285a68c2bb.png)
+![dis](https://user-images.githubusercontent.com/122553640/213876908-76658cca-0cb8-4e05-ad93-2a0fcaae7c17.png)
 ### FEATURES INCLUDE:
-    
         * User login and logout.
 
         * Product, user & category Management on Admin side.
