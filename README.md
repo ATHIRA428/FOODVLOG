@@ -1,6 +1,5 @@
 # E-COM PROJECT
 
-## OUTPUT
 
 
 
